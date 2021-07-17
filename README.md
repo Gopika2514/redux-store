@@ -1,11 +1,11 @@
 # 22 State Homework: Redux Store
 
 ## Links:
-Git repo: 
+Git repo: https://github.com/Gopika2514/redux-store
 
-Git site:
+Git site: https://gopika2514.github.io/redux-store/
 
-Heroku:
+Heroku: https://redux-store-22.herokuapp.com/
 
 ## Description
 
