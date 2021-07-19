@@ -5,7 +5,7 @@ Git repo: https://github.com/Gopika2514/redux-store
 
 Git site: https://gopika2514.github.io/redux-store/
 
-Heroku: https://redux-store-22.herokuapp.com/
+Heroku: https://peaceful-fjord-50507.herokuapp.com/
 
 ## Description
 
