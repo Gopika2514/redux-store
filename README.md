@@ -7,6 +7,8 @@ Git site: https://gopika2514.github.io/redux-store/
 
 Heroku: https://peaceful-fjord-50507.herokuapp.com/
 
+Video: https://youtu.be/ST8PmjjjOsM
+
 ## Description
 
 E-commerce website that allows user to login and purchase items,also see their order history.
